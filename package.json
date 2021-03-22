@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "serve-api": "cd api && venv/bin/flask run --no-debugger",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
