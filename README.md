@@ -1,5 +1,9 @@
 # flask_vue
 
+'''
+Simple login/register app using Vue.js and Flask with JWT Authentication.
+'''
+
 ## Project setup
 ```
 npm install
@@ -9,6 +13,11 @@ npm install
 ```
 npm run serve
 ```
+
+### Run the flask-server backend (http://localhost:5000)
+'''
+npm run serve-api
+'''
 
 ### Compiles and minifies for production
 ```
